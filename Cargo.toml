@@ -1,0 +1,11 @@
+[package]
+name = "inlinable-box"
+version = "0.1.0"
+edition = "2021"
+authors = ["Tyler Neely <t@jujit.su>"]
+description = "a simple inlinable box that puts things on the stack if they fit safely inside a usize"
+license = "GPL-3.0"
+repository = "https://github.com/komora-io/inlinable-box"
+documentation = "https://docs.rs/inlinable-box/"
+
+[dependencies]
